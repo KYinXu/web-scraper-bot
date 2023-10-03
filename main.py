@@ -1,2 +1,2 @@
 import requests
-print("Hello")
+print(requests.__version__)
